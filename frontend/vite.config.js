@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
-// Vite config that proxies /api requests to the backend running on port 5000
+// Proxy API requests through Vite during local development.
 export default defineConfig({
   plugins: [react()],
   server: {
