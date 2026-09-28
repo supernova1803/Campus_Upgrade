@@ -1,4 +1,4 @@
-# CampusConnect
+# CampusUpgrade
 
 CampusConnect is a campus events dashboard where students can discover activities, RSVP, register for events, and manage their account. It includes a React frontend and an Express API for account and registration data.
 
